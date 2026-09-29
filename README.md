@@ -71,7 +71,7 @@ LIMIT 10;
 - **All full-time:** every top-paying role is a full-time position, with no contract or part-time roles in the top 10.
 - **Varied industries:** tech (Meta, Pinterest), telecom (AT&T), fintech (SmartAsset), healthcare (UCLA Health) and autonomous vehicles (Motional) all appear. SmartAsset shows up twice.
 
-![Top Paying Remote Data Analyst Jobs](assests\top_paying_jobs.png)
+![Top Paying Remote Data Analyst Jobs](assests/top_paying_jobs.png)
 *Top paying remote Data Analyst jobs. The dashed line marks the median salary.*
 
 
@@ -123,7 +123,7 @@ among these high-tier roles, beating out cloud platforms like Azure and AWS (2 j
 - **Collaboration & Version Control:** High-paying roles heavily index on collaborative engineering 
 environments, with Bitbucket, Gitlab, Atlassian, and Confluence each appearing twice. 
 
-![top paying job skills](assests\top_paying_skills_demand.png)
+![top paying job skills](assests/top_paying_skills_demand.png)
 
 ## 3. Most In-Demand Skills
 
@@ -288,7 +288,7 @@ LIMIT 25;
 - **A narrow band:** all 24 skills sit between **$97.6k and $115.3k**, so skill choice shifts pay by about $18k, not by multiples.
 - **SQL and Excel are missing from the top 25 by salary.** They are the most requested skills (Query 3), but their averages are below $97.6k, so they are the foundation rather than the salary boosters.
 
-![Optimal Skills for Data Analysts: Demand vs. Salary](assests\optimal_skills.png)
+![Optimal Skills for Data Analysts: Demand vs. Salary](assests/optimal_skills.png)
 *Remote Data Analyst postings with a listed salary. Only skills with more than 10 postings are included.*
 # What I Learned
 
