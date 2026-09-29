@@ -7,8 +7,8 @@
 SELECT  
     job_id,
     job_title_short,
+    c.name AS company_name,
     salary_year_avg,
-    job_posted_date,
     job_schedule_type,
     job_location,
     job_country,
